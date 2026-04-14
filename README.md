@@ -27,6 +27,7 @@
     * Numpy
     * Pandas
     * Visualization
+    * SQL
 
 ### ⚡️ В настоящее время ⚡️
 - 
@@ -64,6 +65,7 @@
     * Numpy
     * Pandas
     * Visualization
+    * SQL
 
 
 ### ⚡️ Currently ⚡️
